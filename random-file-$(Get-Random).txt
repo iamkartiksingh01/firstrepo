@@ -1,0 +1,6 @@
+This is a random file created at $(Get-Date)
+
+Random content:
+- Line 1: $(Get-Random)
+- Line 2: $(Get-Random)
+- Line 3: $(Get-Random)
