@@ -1,0 +1,13 @@
+This is the fourth file in the repository
+
+Details:
+- Created: May 19, 2026
+- Repository: iamkartiksingh01/firstrepo
+- File number: 4
+- Purpose: Continue testing file creation
+
+Content:
+Sample data 1
+Sample data 2
+Sample data 3
+Sample data 4
